@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:iron_plates"
+      "tag": "forge:plates/iron"
     },
     "|": {
-      "item": "ad_astra:iron_rod"
+      "item": "forge:rods/iron"
     }
   },
   "pattern": [

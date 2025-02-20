@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "tag": "forge:rods/steel"
     },
     "B": {
-      "tag": "ad_astra:steel_blocks"
+      "tag": "forge:storage_blocks/steel"
     },
     "C": {
       "item": "minecraft:crafting_table"
@@ -15,7 +15,7 @@
       "item": "minecraft:redstone_torch"
     },
     "|": {
-      "tag": "ad_astra:iron_rods"
+      "tag": "forge:rods/iron"
     }
   },
   "pattern": [

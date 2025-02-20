@@ -21,7 +21,7 @@
       "item": "ad_astra:wheel"
     },
     "|": {
-      "tag": "ad_astra:steel_rods"
+      "tag": "forge:rods/steels"
     }
   },
   "pattern": [

@@ -6,7 +6,7 @@
       "item": "minecraft:red_wool"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "forge:rods/steel"
     }
   },
   "pattern": [

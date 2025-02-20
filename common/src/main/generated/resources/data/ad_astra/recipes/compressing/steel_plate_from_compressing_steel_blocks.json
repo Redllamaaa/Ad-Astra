@@ -3,10 +3,10 @@
   "cookingtime": 800,
   "energy": 20,
   "ingredient": {
-    "tag": "ad_astra:steel_blocks"
+    "tag": "forge:storage_blocks/steel"
   },
   "result": {
     "count": 9,
-    "id": "ad_astra:steel_plate"
+    "id": "forge:plates/steel"
   }
 }

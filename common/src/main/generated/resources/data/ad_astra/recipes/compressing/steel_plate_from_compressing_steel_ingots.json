@@ -3,10 +3,10 @@
   "cookingtime": 100,
   "energy": 20,
   "ingredient": {
-    "tag": "ad_astra:steel_ingots"
+    "tag": "forge:ingots/steel"
   },
   "result": {
     "count": 1,
-    "id": "ad_astra:steel_plate"
+    "id": "forge:plates/steel"
   }
 }

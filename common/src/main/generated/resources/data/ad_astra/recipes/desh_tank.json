@@ -9,7 +9,7 @@
       "item": "ad_astra:steel_tank"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "forge:rods/steel"
     }
   },
   "pattern": [

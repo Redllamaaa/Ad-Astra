@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "tag": "forge:plates/steel"
     },
     "S": {
-      "tag": "ad_astra:steel_ingots"
+      "tag": "forge:ingots/steel"
     }
   },
   "pattern": [

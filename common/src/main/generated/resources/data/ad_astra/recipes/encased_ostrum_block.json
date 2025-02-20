@@ -6,7 +6,7 @@
       "tag": "ad_astra:ostrum_plates"
     },
     "I": {
-      "tag": "ad_astra:steel_ingots"
+      "tag": "forge:ingots/steel"
     }
   },
   "pattern": [

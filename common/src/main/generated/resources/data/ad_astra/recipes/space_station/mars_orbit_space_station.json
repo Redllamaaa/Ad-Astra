@@ -5,13 +5,13 @@
     {
       "count": 32,
       "ingredient": {
-        "tag": "ad_astra:steel_ingots"
+        "tag": "forge:ingots/steel"
       }
     },
     {
       "count": 64,
       "ingredient": {
-        "tag": "ad_astra:steel_plates"
+        "tag": "forge:plates/steel"
       }
     },
     {

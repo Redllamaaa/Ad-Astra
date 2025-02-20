@@ -6,7 +6,7 @@
       "tag": "ad_astra:desh_plates"
     },
     "I": {
-      "tag": "ad_astra:steel_ingots"
+      "tag": "forge:plates/steel"
     }
   },
   "pattern": [

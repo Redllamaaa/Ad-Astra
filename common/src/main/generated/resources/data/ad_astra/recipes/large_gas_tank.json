@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "tag": "forge:plates/steel"
     },
     "G": {
       "item": "ad_astra:gas_tank"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "forge:rods/steel"
     }
   },
   "pattern": [

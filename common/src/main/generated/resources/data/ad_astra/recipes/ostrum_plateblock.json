@@ -6,7 +6,7 @@
       "tag": "ad_astra:ostrum_plates"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "forge:rods/steel"
     }
   },
   "pattern": [
